@@ -1,7 +1,10 @@
 # 💫 About Me:
 Backend & Integration Developer focused on building scalable APIs, automation systems, and AI-powered applications.
+
 My core stack is Python, FastAPI, PostgreSQL, Redis, and Docker. I enjoy designing backend architectures, integrating third-party services, and building reliable automation for real business workflows.
+
 Currently expanding my expertise in AI integrations (LLMs, MCP, RAG) and Web3 technologies while developing production-ready backend systems.
+
 Always interested in solving complex engineering problems through clean architecture and practical software design.
 
 # 💻 Tech Stack:
